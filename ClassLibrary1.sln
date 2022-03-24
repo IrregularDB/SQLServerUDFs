@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database1", "Database1\Database1.sqlproj", "{A93EEFBA-A0B4-4005-8D6D-70805B366510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecompressModelsUtil", "DecompressModelsUtil3\DecompressModelsUtil.csproj", "{D5D4302D-6060-4194-BE22-3A99C327D9B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A93EEFBA-A0B4-4005-8D6D-70805B366510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A93EEFBA-A0B4-4005-8D6D-70805B366510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A93EEFBA-A0B4-4005-8D6D-70805B366510}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A93EEFBA-A0B4-4005-8D6D-70805B366510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A93EEFBA-A0B4-4005-8D6D-70805B366510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A93EEFBA-A0B4-4005-8D6D-70805B366510}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D5D4302D-6060-4194-BE22-3A99C327D9B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D4302D-6060-4194-BE22-3A99C327D9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D4302D-6060-4194-BE22-3A99C327D9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D4302D-6060-4194-BE22-3A99C327D9B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {413438DF-5D8F-4FE6-98DF-6ECEDA713205}
+	EndGlobalSection
+EndGlobal
